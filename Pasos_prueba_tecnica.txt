@@ -1,0 +1,4 @@
+Pasos para ejecutar el proyecto 
+
+paso 1 ejecutar el archivo con nombre "BDprueba" dentro del gestor de base de datos
+paso 2 para poder ingresar a la aplicacion es necesario ingresar a http://prueba_php.test/ventanas en donde encontrará toda la interfaz
